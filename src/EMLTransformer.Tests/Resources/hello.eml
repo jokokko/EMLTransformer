@@ -1,0 +1,151 @@
+Subject: Hello
+To: "jokokko@gmail.com" <jokokko@gmail.com>
+X-Unsent: 1
+Date: Wed, 14 Aug 2019 11:25:03 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--_=_NextPart2_a8c82a74-afcd-46aa-b628-0c8adeda9dea"
+
+This is a multi-part message in MIME format.
+
+----_=_NextPart2_a8c82a74-afcd-46aa-b628-0c8adeda9dea
+Content-Type: multipart/related; boundary="--_=_NextPart1_88c24104-b9e5-40cd-9b6e-3fd2c5023113"; type="multipart/alternative"
+
+
+----_=_NextPart1_88c24104-b9e5-40cd-9b6e-3fd2c5023113
+Content-Type: multipart/alternative; boundary="--_=_NextPart0_84aff129-bd5d-4065-84cc-f23289dc7ba5"
+
+
+----_=_NextPart0_84aff129-bd5d-4065-84cc-f23289dc7ba5
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Start=2E
+Image by Content-Id
+
+Image by Content-Location
+
+Image by filename
+
+End=2E
+
+----_=_NextPart0_84aff129-bd5d-4065-84cc-f23289dc7ba5
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<p>Start<br/>=
+Image by Content-Id<br/>=
+<img src=3D"cid:image001.png@01D552AA.DA38EF60"/>=
+<br/>Image by Content-Location<br/>=
+<img src=3D"http://local/image002.png"/>=
+<br/>Image by filename<br/>=
+<img src=3D"cid:image003.png"/>=
+<br/>End</p>
+----_=_NextPart0_84aff129-bd5d-4065-84cc-f23289dc7ba5--
+
+----_=_NextPart1_88c24104-b9e5-40cd-9b6e-3fd2c5023113
+Content-Type: image/png; name="image001.png"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.png@01D552AA.DA38EF60>
+
+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
+gg==
+----_=_NextPart1_88c24104-b9e5-40cd-9b6e-3fd2c5023113
+Content-Type: image/png; name="image002.png"
+Content-Transfer-Encoding: base64
+Content-ID: <image002.png@01D552AA.DA38EF60>
+Content-Location: http://local/image002.png
+
+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
+G5k5J2LOAAAAAElFTkSuQmCC
+----_=_NextPart1_88c24104-b9e5-40cd-9b6e-3fd2c5023113
+Content-Type: image/png; name="image003.png"
+Content-ID: <image003.png@01D552AA.DA38EF60>
+Content-Disposition: attachment; filename=image003.png
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMPSURBVHhe7Zu7ihVBEIaPN9RUDXQXNDAwEbwE
+gqhgoomZ4lv4AF5zMROfwMsDeENRs0XFYBW8PYCCIKirgZp4/b/jDKxr7ZkZT091zez+8NE7Zzmc
+rqnp6erq6kFHtEGcEvfFR/FTfBIPxWkxKXqpZQLDP4tfI/gqzojlojdaJa4Ly+D5uCn4Xi90WVhG
+VsH3lohO66iwjKvLEdFZLRUvhGVYXZ6JzmqXsIxqynZRKe52NO0t2nG1p2hHKuIN2FS042pj0Y4U
+82w0HRIMg3G1WmwWW8Q38VZ0QseFNabHhRcjs0P4KXK/sAxIBXFC6GBphXglrM6ngogxbNi8U3wQ
+VsdTwiIqnLyMhy9iItIsgPF3xdrhVftiqM1EuQEYf094GV9qZdFmFca/E9Zj2jYMt6zyHPMWBEjZ
+lNPzJdmegNyeL5nKsRjC+DtizfAqr24XrZt2iAieBxKt64WbMD73mJ/NSeGmSJ6Ha8ItBormedfV
+IMa/F1ZHUsMT9nrOZ7Mh0Uq2+S+1mRzAeGL7dcOrdjUjDojnglzgbjEh2EJjac2W2nRx7SJPz/M7
+TK1h5DnmeezDGb9gPc9GxIL1PMYvet6BRc+LMOqF5+cLhFgm84P7BHt1XL8RjwR1OVuFVw4P4w+K
+J8MrB7F9RERleQKIrLwee9cxT4b0orA6kgPXMc/S8KqwOpID97c9yQGrIzlwf9tThFhVh+dFlnn+
+hLA64022eX5KWB3yJIvnS5FMsDrlRfYI77uwOuZBVs+XyvUEZPd8KfJlVgfbJITnETH+rT9/ugnj
+SWC6xfZVIntKuYjlqdSE8fxcUTBkdTglYY1HlIzdEFbHU8EqkrqcsGK76H8PKdSFIsjQIkFSlQ8Y
+B8pgOyNy/MfEOfFYWAY15YLopM4Ky6CmnBehVLdEhl3XFOJF2EltE5ZHm5LiHEA2PRWWUXV5KXIU
+ZSXTYWEZVpd/ihO6JqbIS8Iyroorohcidd70OCsRJud3eiNS6BxorlpA8X/WGJFK8pOKVSQ34oHg
+SPuPoiW/wOdkm4NrMPgNEe1spanmFRcAAAAASUVORK5CYII=
+----_=_NextPart1_88c24104-b9e5-40cd-9b6e-3fd2c5023113--
+
+----_=_NextPart2_a8c82a74-afcd-46aa-b628-0c8adeda9dea
+Content-Type: application/octet-stream; name="hello.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+ZG9n
+----_=_NextPart2_a8c82a74-afcd-46aa-b628-0c8adeda9dea--
+
